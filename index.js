@@ -59,9 +59,12 @@ async function scraper() {
 }
 
 scraper();
+<<<<<<< HEAD
 
 
 
 
 
 
+=======
+>>>>>>> b14d8b00c838f669fd4d4ffc4917b8b855ba571a
